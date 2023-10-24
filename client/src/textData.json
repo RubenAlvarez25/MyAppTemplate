@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "ElNonno"
+  },
+  "es": {
+    "navbar": {
+      "inicio": "Inicio",
+      "acercaDe": "Nosotros",
+      "servicios": "Servicios",
+      "contacto": "Contactenos"
+    },
+    "heroImage": {
+      "parrafo": "Esto es un párrafo de descripción del Hero Image.",
+      "about": "Sobre Nosotros"
+    },
+    "secctionWcarrousel": {
+      "title": "Nuestra Inmobiliaria",
+      "description": "Somos una inmobiliaria comprometida con encontrar el hogar de tus sueños. Nuestro equipo de expertos está aquí para ayudarte en cada paso del camino."
+    },
+    "secctionWcards": {
+      "title": "Pisos y Apartamentos",
+      "description": "Descubre nuestra exclusiva selección de pisos y apartamentos en ubicaciones privilegiadas. Desde apartamentos modernos con vistas panorámicas hasta acogedores pisos familiares, tenemos la propiedad perfecta para ti."
+    },
+    "cards": {
+      "one": {
+        "title": "Ejemplo de Título",
+        "description": "Descripción de la tarjeta de ejemplo",
+        "CTA_button": "Ver más"
+      },
+      "two": {
+        "title": "Ejemplo de Título 2",
+        "description": "Descripción de la tarjeta de ejemplo 2",
+        "CTA_button": "Ver más 2"
+      },
+      "three": {
+        "title": "Ejemplo de Título 3",
+        "description": "Descripción de la tarjeta de ejemplo 3",
+        "CTA_button": "Ver más 3"
+      }
+    },
+    "secctionSimple": {
+      "title": "Nuestra Misión",
+      "description": "En nuestra inmobiliaria, nos esforzamos por brindarte las mejores opciones de propiedades que se adapten a tus necesidades y sueños ",
+      "moreDescription": "Con años de experiencia en el mercado, estamos comprometidos con proporcionarte un servicio excepcional y orientación experta en cada paso del camino. "
+    },
+    "secctionWform": {
+      "title": "Te interesa?",
+      "titleOnPage": "Si quieres, te llamamos.",
+      "description": "Rellena el formulario y nos pondremos en contacto contigo",
+
+      "form": {
+        "title": "Contáctanos",
+        "labelName": "Nombre",
+        "labelEmail": "Email",
+        "labelTel": "Teléfono",
+        "labelTextarea": "Mensaje",
+        "buttonText": "Enviar"
+      }
+    },
+    "aboutPage": {
+      "layout": {
+        "title": "Menu",
+        "buttonOpt1": "Nosotros",
+        "buttonOpt2": "Agentes",
+        "buttonOpt3": "Ciudad"
+      },
+      "sectionWCardsAlt": {
+        "title": "Nuestros Agentes Inmobiliarios",
+        "cards": {
+          "one": {
+            "title": "Nombre Agente",
+            "description": "Descripción del Agente",
+            "CTA_button": "telefono +34"
+          },
+          "two": {
+            "title": "Nombre Agente 2",
+            "description": "Descripción del Agente 2",
+            "CTA_button": "telefono +34"
+          },
+          "three": {
+            "title": "Nombre Agente 3",
+            "description": "Descripción del Agente 3",
+            "CTA_button": "telefono +34"
+          }
+        }
+      },
+      "location": {
+        "title": "Alicante: Belleza Mediterránea",
+        "content": "Alicante, una ciudad cautivadora ubicada en la pintoresca Costa Blanca de España, ofrece una rica combinación de historia, cultura y belleza natural. Con sus playas bañadas por el sol, calles vibrantes y encanto histórico, Alicante es una joya en la costa mediterránea.\n\nEl latido de la ciudad es su impresionante línea de costa, bordeada de palmeras y un paseo que cobra vida tanto de día como de noche. Playas de postal como la Playa del Postiguet atraen tanto a amantes del sol como a entusiastas del agua, mientras que las aguas azules del Mediterráneo invitan al relax y a la aventura.\n\nEl casco histórico de Alicante, El Barrio, es un laberinto de calles estrechas adornadas con edificios coloridos, mercados bulliciosos y cafés pintorescos. El majestuoso Castillo de Santa Bárbara vigila la ciudad desde lo alto, ofreciendo vistas panorámicas que se extienden desde la costa escarpada hasta las montañas distantes.\n\nLos entusiastas de la cultura encontrarán deleite en la variada oferta de museos y galerías de Alicante, que exhiben su patrimonio, arte e innovación. Festivales como Las Hogueras de San Juan encienden las calles con esculturas elaboradas, fuegos artificiales y celebraciones animadas, mientras que la cocina tradicional española servida en bares de tapas y restaurantes elegantes complace los sentidos.\n\nYa sea paseando por las callejuelas empedradas del Casco Antiguo, explorando yacimientos arqueológicos o sumergiéndose en la animada vida nocturna, Alicante promete una encantadora fusión entre pasado y presente. Su espíritu mediterráneo, clima cálido y hospitalidad genuina hacen de ella un destino que conquista los corazones de todos los que la visitan. Alicante no es solo un lugar, es una experiencia que deja una marca indeleble en cada viajero."
+      }
+    },
+    "services": {
+      "heroTitle": "Nuestros Servicios",
+      "title": " ¿ Que estas buscando ?",
+      "OptionOneTitle": "Comprar Viviendas",
+      "OptionTwoTitle": "Alquiler",
+      "cards": {
+        "one": {
+          "title": "Comprar",
+          "CTA_button": "Ver Todos"
+        },
+        "two": {
+          "title": "Alquilar",
+          "CTA_button": "Ver Todos"
+        }
+      }
+    },
+    "bigText": {
+      "title": "Acerca de Nosotros - ",
+      "content": "Bienvenido a [Nombre de la Inmobiliaria], tu socio confiable en el emocionante mundo de bienes raíces en la hermosa ciudad de Alicante. Nuestra pasión por conectar a las personas con sus hogares soñados y oportunidades de inversión únicas es lo que impulsa cada paso que damos.\n\nCon una presencia arraigada en la comunidad alicantina, [Nombre de la Inmobiliaria] se enorgullece de ser una empresa líder en el mercado inmobiliario local. Nuestro equipo de expertos está compuesto por agentes altamente capacitados y apasionados que conocen a fondo el mercado de Alicante y sus alrededores. Desde pisos acogedores en el corazón de la ciudad hasta lujosas propiedades frente al mar, estamos comprometidos a encontrar la propiedad perfecta para cada cliente.\n\nLo que nos distingue es nuestro enfoque personalizado. Entendemos que la compra, venta o alquiler de una propiedad es una decisión importante en la vida de las personas. Por eso, trabajamos estrechamente con nuestros clientes para comprender sus necesidades, deseos y objetivos. Ya sea que estés buscando tu primer hogar, expandir tu cartera de inversión o encontrar una residencia de vacaciones, estamos aquí para convertir tus sueños en realidad.\n\nNuestra misión va más allá de ser simplemente intermediarios en transacciones inmobiliarias. Queremos ser tu guía en este emocionante viaje. Desde proporcionar información detallada sobre propiedades hasta asesoramiento sobre tendencias del mercado, te brindamos la información que necesitas para tomar decisiones informadas y exitosas.\n\nEn [Nombre de la Inmobiliaria], también valoramos la transparencia y la integridad en todas nuestras interacciones. Tratamos cada transacción con honestidad y profesionalismo, asegurándonos de que tanto compradores como vendedores se sientan seguros y confiados en cada paso del proceso.\n\nTe invitamos a explorar nuestro sitio web y descubrir la amplia gama de propiedades que tenemos para ofrecer en Alicante y sus alrededores. Siempre estamos disponibles para responder a tus preguntas y programar visitas. ¡Esperamos ser tu socio confiable en todas tus necesidades inmobiliarias en Alicante!\n\nGracias por considerarnos.\n\nAtentamente,\nEl Equipo de [Nombre de la Inmobiliaria]"
+    },
+    "rent": {
+      "dataRentOne": {
+        "title": "Apartamento Acogedor",
+        "description": "Vista panorámica, amueblado"
+      }
+    },
+    "cardProduct": {
+      "opt1": "M2",
+      "opt2": "Habitaciones",
+      "opt3": "Aseos",
+      "opt4": "€",
+      "buttonText": "Ver mas"
+    },
+    "finder": {
+      "title": "Buscador",
+      "features": {
+        "text": "Buscar por Nombre",
+        "opt1": "Habitaciones",
+        "opt2": "Rango de precios"
+      }
+    },
+    "buttonContact": {
+      "title": "Vendes o Arrendas? pincha aqui"
+    }
+  },
+  "en": {
+    "navbar": {
+      "inicio": "Menu",
+      "acercaDe": "About",
+      "servicios": "Services",
+      "contacto": "Contact us"
+    },
+    "heroImage": {
+      "parrafo": "This is a paragraph of description for the Hero Image.",
+      "about": "About Us"
+    },
+    "secctionWcarrousel": {
+      "title": "Our Real Estate Agency",
+      "description": "We are a real estate agency committed to finding the home of your dreams. Our team of experts is here to assist you every step of the way."
+    },
+    "secctionWcards": {
+      "title": "Houses and Apartments",
+      "description": "Discover our exclusive selection of apartments and flats in privileged locations. From modern apartments with panoramic views to cozy family flats, we have the perfect property for you."
+    },
+    "cards": {
+      "one": {
+        "title": "Example Title",
+        "description": "Description of the example card.",
+        "CTA_button": "See More"
+      },
+      "two": {
+        "title": "Example Title 2",
+        "description": "Description of the example card. 2",
+        "CTA_button": "See More 2"
+      },
+      "three": {
+        "title": "Example Title 3",
+        "description": "Description of the example card. 3",
+        "CTA_button": "See More 3"
+      }
+    },
+    "secctionSimple": {
+      "title": "Our Mission",
+      "description": "At our real estate agency, we strive to provide you with the best property options that suit your needs and dreams.",
+      "moreDescription": "With years of experience in the market, we are committed to offering you exceptional service and expert guidance at every step of the way."
+    },
+    "secctionWform": {
+      "title": "Interested?",
+      "titleOnPage": "We can just call You",
+      "description": "Fill out the form and we will get in touch with you.",
+      "form": {
+        "title": "Contact Us",
+        "labelName": "Name",
+        "labelEmail": "Email",
+        "labelTel": "Phone",
+        "labelTextarea": "Message",
+        "buttonText": "Send"
+      }
+    },
+    "aboutPage": {
+      "layout": {
+        "title": "Menu",
+        "buttonOpt1": "About Us",
+        "buttonOpt2": "Agents",
+        "buttonOpt3": "City"
+      },
+      "sectionWCardsAlt": {
+        "title": "Our Real Estate",
+        "cards": {
+          "one": {
+            "title": "Agent Name",
+            "description": "Agent Description",
+            "CTA_button": "phone +34"
+          },
+          "two": {
+            "title": "Agent Name 2",
+            "description": "Agent Description 2",
+            "CTA_button": "phone +34"
+          },
+          "three": {
+            "title": "Agent Name 3",
+            "description": "Agent Description 3",
+            "CTA_button": "phone +34"
+          }
+        }
+      },
+      "location": {
+        "title": "Alicante: Mediterranean Beauty",
+        "content": "Alicante, a captivating city nestled on the picturesque Costa Blanca of Spain, offers a rich tapestry of history, culture, and natural beauty. With its sun-drenched beaches, vibrant streets, and historic charm, Alicante is a jewel of the Mediterranean coast.\n\nThe city's heartbeat is its stunning waterfront, lined with palm trees and a promenade that comes alive day and night. Postcard-worthy beaches like Playa del Postiguet lure sun-seekers and water enthusiasts alike, while the azure waters of the Mediterranean invite relaxation and adventure.\n\nAlicante's historic quarter, El Barrio, is a labyrinth of narrow streets adorned with colorful buildings, bustling markets, and quaint cafes. The majestic Santa Bárbara Castle stands watch over the city, offering panoramic views that stretch from the rugged coastline to the distant mountains.\n\nCultural enthusiasts will find delight in Alicante's array of museums and galleries, showcasing the city's heritage, art, and innovation. Festivals like Las Hogueras de San Juan ignite the streets with elaborate sculptures, fireworks, and spirited celebrations, while the traditional Spanish cuisine served in tapas bars and upscale restaurants indulges the senses.\n\nWhether strolling through the Old Town's cobblestone alleys, exploring archaeological sites, or soaking in the vibrant nightlife, Alicante promises an enchanting blend of past and present. Its Mediterranean spirit, warm climate, and genuine hospitality make it a destination that captures the hearts of all who visit. Alicante is not just a place; it's an experience that leaves an indelible mark on every traveler."
+      }
+    },
+    "services": {
+      "heroTitle": "Our Services",
+      "title": "What are you looking for?",
+      "OptionOneTitle": "Buy Homes",
+      "OptionTwoTitle": "Rent",
+
+      "cards": {
+        "one": {
+          "title": "Buy",
+          "CTA_button": "See All"
+        },
+        "two": {
+          "title": "Rent",
+          "CTA_button": "See All"
+        }
+      }
+    },
+    "bigText": {
+      "title": "About Us - ",
+      "content": "Welcome to [Real Estate Agency Name], your reliable partner in the exciting world of real estate in the beautiful city of Alicante. Our passion for connecting people with their dream homes and unique investment opportunities drives every step we take.\n\nWith a strong presence in the Alicante community, [Real Estate Agency Name] takes pride in being a leading company in the local real estate market. Our team of highly trained and passionate experts are well-versed in the Alicante market and its surroundings. From cozy flats in the heart of the city to luxurious properties by the sea, we are committed to finding the perfect property for every client.\n\nWhat sets us apart is our personalized approach. We understand that buying, selling, or renting a property is a significant decision in people's lives. That's why we work closely with our clients to understand their needs, desires, and goals. Whether you're looking for your first home, expanding your investment portfolio, or finding a vacation residence, we are here to turn your dreams into reality.\n\nOur mission goes beyond being mere intermediaries in real estate transactions. We aim to be your guide on this exciting journey. From providing detailed property information to advising on market trends, we offer the information you need to make informed and successful decisions.\n\nAt [Real Estate Agency Name], we also value transparency and integrity in all our interactions. We handle each transaction with honesty and professionalism, ensuring both buyers and sellers feel secure and confident at every step of the process.\n\nWe invite you to explore our website and discover the wide range of properties we have to offer in Alicante and its surroundings. We are always available to answer your questions and schedule visits. We look forward to being your trusted partner for all your real estate needs in Alicante!\n\nThank you for considering us.\n\nSincerely,\nThe [Real Estate Agency Name] Team"
+    },
+    "rent": {
+      "dataRentOne": {
+        "title": "Cozy Apartment",
+        "description": "Panoramic view with forniture"
+      }
+    },
+    "finder": {
+      "title": "Finder",
+      "features": {
+        "text": "Search by Name",
+        "opt1": "Rooms",
+        "opt2": "Price Range"
+      }
+    },
+    "cardProduct": {
+      "opt1": "SqM",
+      "opt2": "Bedrooms",
+      "opt3": "Bathrooms",
+      "opt4": "€",
+      "buttonText": "See more"
+    },
+    "buttonContact": {
+      "title": "Selling or Renting? Click here"
+    }
+  }
+}

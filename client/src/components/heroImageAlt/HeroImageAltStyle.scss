@@ -1,0 +1,27 @@
+.heroAlt {
+  background-image: url("ruta/a/tu/imagen.jpg");
+  background-color: beige;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-contentAlt {
+  text-align: left;
+  color: #ffffff;
+  padding: 2rem;
+}
+
+.hero-titleAlt {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #ffd700;
+}
+
+.hero-descriptionAlt {
+  font-size: 1.2rem;
+  color: #e0e0e0;
+}

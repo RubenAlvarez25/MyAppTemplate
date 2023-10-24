@@ -1,0 +1,27 @@
+.hero {
+  background-image: url("../../assets/image/casaLlaves.jpg");
+  background-color: beige;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-content {
+  text-align: left;
+  color: #ffffff;
+  padding: 2rem;
+}
+
+.hero-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #ffd700;
+}
+
+.hero-description {
+  font-size: 1.2rem;
+  color: #e0e0e0;
+}

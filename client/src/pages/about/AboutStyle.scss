@@ -1,0 +1,22 @@
+.about-page {
+  .content-container {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .button-col {
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 30%; // Ajusta el ancho de la columna de botones según tus necesidades
+    position: sticky;
+    top: 80px; // Ajusta esto según la altura de tu navbar
+    height: calc(100vh - 80px); // Ajusta esto según la altura de tu navbar
+    overflow-y: auto;
+
+    .button-group {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+  }
+}

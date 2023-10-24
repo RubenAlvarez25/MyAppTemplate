@@ -1,0 +1,52 @@
+.tableContainer {
+  margin: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc; /* Agregar bordes a las celdas */
+}
+
+.table th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+.table tbody tr:hover {
+  background-color: #e0e0e0;
+}
+
+/* Estilos para las celdas de encabezado */
+.table th:first-child,
+.table td:first-child {
+  border-left: 1px solid #ccc;
+}
+
+/* Estilos para las últimas celdas de cada fila */
+.table th:last-child,
+.table td:last-child {
+  border-right: none; /* Elimina el borde derecho en la última columna */
+}
+
+/* Estilos para las celdas de encabezado en la última fila */
+.table thead tr:last-child th {
+  border-bottom: none; /* Elimina el borde inferior en la última fila del encabezado */
+}
+
+/* Estilos para las celdas en la última fila del cuerpo */
+.table tbody tr:last-child td {
+  border-bottom: none; /* Elimina el borde inferior en la última fila del cuerpo */
+}
